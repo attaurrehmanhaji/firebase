@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1071881937585",
+    "project_id": "form-authentication-e56b1",
+    "storage_bucket": "form-authentication-e56b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071881937585:android:9e7795c535e9bd9b773890",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuN08v7InB4heQWv7fpP5PTTIGA5IAKCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
